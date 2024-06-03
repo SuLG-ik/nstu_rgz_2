@@ -9,4 +9,8 @@ add_executable(rgz2 main.cpp
         Monitor.cpp
         Monitor.h
         Keyboard.cpp
-        Keyboard.h)
+        Keyboard.h
+        App.cpp
+        App.h
+        Menu.cpp
+        Menu.h)
